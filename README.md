@@ -16,5 +16,7 @@ Esta pagina sigue en proceso de creacion.
 ## Creditos:
 
 **Aiger:** Lider del servidor de Discord
+
 **Krecero:** Lider de la lista
+
 **Arthing:** Programador
