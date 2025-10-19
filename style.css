@@ -1,1 +1,136 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+background: #967181;
+background: radial-gradient(circle, rgba(150, 113, 129, 1) 0%, rgba(96, 117, 145, 1) 100%);
+margin: 0;
+} 
 
+
+h2 {
+    color: #fff;
+    text-align: center;
+    background: #833AB4;
+    background: radial-gradient(circle, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 10px;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+    background: #833AB4;
+    background: radial-gradient(circle, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 20px;
+}
+p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 20px auto;
+    color: #fff;
+    text-align: center;
+      font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+header {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px 0;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+body img {
+    box-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    background-color: #002e4d;
+    border-radius: 10px;
+}
+.infocabeza { 
+    list-style: none; text-align: right; 
+        font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background: #FD1D1D;
+    background: radial-gradient(circle, rgba(253, 29, 29, 1) 0%, rgba(252, 176, 69, 1) 100%);
+}
+.infocabeza li { 
+    display: inline-block; margin-right: 12px; 
+    color:#f4f4f9
+}
+.imagenheader {
+    width: 100px;
+}
+.nombres {
+    color: #fff;
+    text-align: left;
+    background: #833AB4;
+    background: radial-gradient(circle, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 20px;
+}
+.datos {
+    text-align: left;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.member-header {
+    text-align: left;
+    padding: 10px 20px; 
+    margin: 20px;       
+    border-radius: 20px;
+    background: rgba(0,0,0,0.5); 
+}
+.member-header .nombres {
+    text-align: left;
+}
+
+.member-header .datos {
+    text-align: left;
+    margin: 0;
+    padding: 2px 0;
+}
+.normalh1 {
+    color: #fff;
+    text-align: center;
+    font-family: "BBH Sans Bartle", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-radius: 10px;
+}
+.random-text {
+    color: #838383;
+    font-size: 14px;
+    text-align: center;
+}
+a:hover {
+  color: rgb(145, 145, 145); /* Cambia a gris al pasar el mouse */
+}
+.Puntos {
+    width: 60px;
+}
+.youtube-icon {
+    width: 60px;
+
+}
